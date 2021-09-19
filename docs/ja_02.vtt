@@ -1,5 +1,18 @@
 WEBVTT - Made with VTT Creator
 
+STYLE
+::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
+
+NOTE comment blocks can be used between style blocks.
+
+STYLE
+::cue(b) {
+  color: peachpuff;
+}
+
 00:01.816 --> 00:04.616
 モジュール 2: アジャイル・チームでのチーム・メンバーとの協業  
 
