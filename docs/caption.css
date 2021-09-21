@@ -1,3 +1,7 @@
-#my-video > div.vjs-text-track-display > div > div > div
+#my-video > div.vjs-text-track-display > div > div > div {
     background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#my-video > div.vjs-text-track-display > div > div {
+    background-color: rgba(0, 0, 0, 0.5) !important;
 }
